@@ -44,7 +44,7 @@ grunt.initConfig({
 Type: `Object`
 *Required*.
 
-Require-lazy-specific options. See examples from `require-lazy` (e.g. the [options of the grunt exmaple](https://github.com/nikospara/require-lazy/blob/master/examples/module-discovery-grunt/build-scripts/options.js)).
+Require-lazy-specific options. See examples from `require-lazy` (e.g. the [options of the grunt example](https://github.com/nikospara/require-lazy/blob/master/examples/module-discovery-grunt/build-scripts/options.js)).
 
 #### options.config
 Type: `Object`
