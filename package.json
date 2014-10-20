@@ -1,7 +1,7 @@
 {
 	"name": "require-lazy-grunt",
 	"description": "Grunt plugin for require-lazy",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"homepage": "https://github.com/nikospara/require-lazy-grunt",
 	"author": {
 		"name": "Nikos Paraskevopoulos",
@@ -28,7 +28,7 @@
 		"test": "grunt test"
 	},
 	"dependencies": {
-		"require-lazy": "*"
+		"require-lazy": ">=0.3.8"
 	},
 	"devDependencies": {
 		"grunt-contrib-jshint": "~0.6.0",
